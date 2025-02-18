@@ -1,4 +1,4 @@
-# Geekster HTML & CSS Projects
+# HTML & CSS Projects
 
 Welcome to the collection of HTML and CSS projects completed as part of the Geekster curriculum. Each project demonstrates different web development skills and techniques, from basic UI layouts to complex web application clones.
 
